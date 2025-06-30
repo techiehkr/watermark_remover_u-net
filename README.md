@@ -31,6 +31,10 @@ cd watermark_remover_u-net
 
 Open the local URL (usually http://127.0.0.1:7860) in your browser.
 
+## How to use
+Please check this youtube video to check how to use this program
+https://www.youtube.com/watch?v=zVx4sObnFoA
+
 ## Files
  - app.py: Gradio interface and inference code.
  - model.py: UNet model definition.
